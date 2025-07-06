@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekShrivas
-- 👀 I’m interested in Android Application Development, Backend Development...
+- 👀 I’m interested in Application Development, Backend Development, & All AI
 - 🌱 I’m Expertise in Mobile Application Development
 - 💞️ I’m looking to collaborate on Github...
 - 📫 How to reach me abhishekshrivastava_dit@hotmail.com
